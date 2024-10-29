@@ -1,5 +1,5 @@
 {
-  "name": "brandung/cash-on-delivery-fee",
+  "name": "g48r137/cash-on-delivery-fee",
   "description": "Adds a fee for cash on delivery payment method",
   "require": {
     "php": "^7.0.0|^8.0|^8.1|^8.2",
