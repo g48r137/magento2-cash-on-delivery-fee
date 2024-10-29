@@ -1,6 +1,4 @@
 
-![alt text](https://www.agentur-brandung.de/fileadmin/img/logo-250x74.png "Brandung")
-
 ## Cash on Delivery Fee
 
 this module adds a configurable fee for the Magento2 default cash on delivery payment Method
@@ -9,8 +7,8 @@ this module adds a configurable fee for the Magento2 default cash on delivery pa
 
 From Magento2 root dir:
 ```bash
-composer require brandung/cash-on-delivery-fee
-bin/magento module:enable Brandung_CashOnDeliveryFee
+composer require g48r137/cash-on-delivery-fee
+bin/magento module:enable g48r137_CashOnDeliveryFee
 bin/magento setup:upgrade
 ```
 
